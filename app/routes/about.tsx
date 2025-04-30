@@ -2,8 +2,8 @@ import type { Route } from "./+types/home";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "RESTExplorer" },
-    { name: "Check out country data!", content: "Sobre RESTExplorer." },
+    { title: "REST Explorer | Sobre Nosotros" },
+    { name: "¡Consulta los datos del país!", content: "Sobre RESTExplorer." },
   ];
 }
 
